@@ -20,7 +20,7 @@
 
 🛠 Me interesa:
 
-Desktop, fronted, devOps, backEnd.
+Desktop, front-End, DevOps, Back-End.
 
 📲 Informacion de contacto:
 
